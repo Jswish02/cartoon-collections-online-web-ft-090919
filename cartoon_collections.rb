@@ -32,7 +32,7 @@ end
 end
 
 
-def find_the_cheese2(array, array2)
+def find_the_cheese(array, array2)
   chesse_types = array2
   array.find do |type|
     chesse_types.include? (type)
