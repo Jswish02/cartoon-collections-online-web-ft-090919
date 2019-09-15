@@ -1,4 +1,5 @@
 snow_white=["Doc", "Dopey", "Bashful", "Grumpy"]
+
 def roll_call_dwarves(array)
   i = 1 
   while i < array.length 
