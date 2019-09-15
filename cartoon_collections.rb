@@ -31,7 +31,7 @@ def long_planeteer_calls(array)
 end
 end
 def find_the_chesse(array)
-  
+  chesse_types
 
 def find_the_cheese2(array, array2)
   chesse_types = array2
