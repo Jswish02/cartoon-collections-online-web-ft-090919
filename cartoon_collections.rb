@@ -22,7 +22,8 @@ end
 summon_captain_planet(new_array)
 
 
-
+snacks = ["crackers", "gouda", "thyme"]
+cheese_types = ["cheddar", "gouda", "camembert"
 
 def long_planeteer_calls(array)
   i = 0 
