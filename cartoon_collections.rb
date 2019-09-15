@@ -1,6 +1,8 @@
 snow_white=["Doc", "Dopey", "Bashful", "Grumpy"]
 def roll_call_dwarves# code an argument here
-  
+  i = 0 
+  while i < snow_white.length 
+   puts "#{i}. "
 end
 
 def summon_captain_planet# code an argument here
