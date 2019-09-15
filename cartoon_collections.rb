@@ -1,7 +1,7 @@
 snow_white=["Doc", "Dopey", "Bashful", "Grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 short_words = ["puff", "go", "two"]
-snacks = ["crackers", "gouda", "thyme"]
+
 def roll_call_dwarves(array)
   i = 1 
   while i < array.length 
@@ -20,6 +20,9 @@ new_array << array[i].capitalize + !
 i += 1
 end
 summon_captain_planet(new_array)
+
+
+
 
 def long_planeteer_calls(array)
   i = 0 
