@@ -11,6 +11,7 @@ end
 roll_call_dwarves(snow_white)
 
 def summon_captain_planet(array)
+ new_array= []
    i = 0
 while i < array.length 
 puts "#{array.capitalize}"
