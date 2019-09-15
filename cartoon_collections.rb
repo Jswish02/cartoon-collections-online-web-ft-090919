@@ -31,7 +31,7 @@ end
 end
 
 
-def find_the_cheese(array)
+def find_the_cheese(array, array 2)
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   
