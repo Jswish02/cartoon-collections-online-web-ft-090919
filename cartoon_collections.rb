@@ -20,9 +20,8 @@ i += 1
 end
 new_array
 end
+summon_captain_planet(planeteer_calls)
 
-snacks = ["crackers", "gouda", "thyme"]
-cheese_types = ["cheddar", "gouda", "camembert"
 
 def long_planeteer_calls(array)
   i = 0 
