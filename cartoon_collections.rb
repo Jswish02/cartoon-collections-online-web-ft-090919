@@ -20,7 +20,7 @@ new_array << array[i].capitalize + !
 i += 1
 end
 summon_captain_planet(new_array)
-
+end
 
 snacks = ["crackers", "gouda", "thyme"]
 cheese_types = ["cheddar", "gouda", "camembert"
