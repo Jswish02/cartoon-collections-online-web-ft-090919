@@ -1,6 +1,5 @@
 snow_white=["Doc", "Dopey", "Bashful", "Grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
-short_words = ["puff", "go", "two"]
 calls_scream = ["bo", "bam", "boom", "bazam", "powzer"]
 def roll_call_dwarves(array)
   i = 1 
