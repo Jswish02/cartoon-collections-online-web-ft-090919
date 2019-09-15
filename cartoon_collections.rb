@@ -1,6 +1,7 @@
 snow_white=["Doc", "Dopey", "Bashful", "Grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 short_words = ["puff", "go", "two"]
+
 def roll_call_dwarves(array)
   i = 1 
   while i < array.length 
