@@ -1,7 +1,7 @@
 snow_white=["Doc", "Dopey", "Bashful", "Grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 short_words = ["puff", "go", "two"]
-calls_scream = 
+calls_scream = ["bo", "bam", "boom", "bazam", "powzer"]
 def roll_call_dwarves(array)
   i = 1 
   while i < array.length 
@@ -34,6 +34,8 @@ def long_planeteer_calls(array)
     i = i + 1
 end
 end
+long_planeteer_calls(calls_scream)
+
 def find_the_chesse(array)
   cheese_types = ["cheddar", "gouda", "camembert" 
   array.find do |type|
