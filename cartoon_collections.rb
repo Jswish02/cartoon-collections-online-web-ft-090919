@@ -5,6 +5,7 @@ def roll_call_dwarves(array)
    puts "#{i}. #{array[i]}"
    i+=1
 end
+end
 
 roll_call_dwarves(snow_white)
 
