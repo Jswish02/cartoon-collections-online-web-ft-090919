@@ -19,7 +19,7 @@ while i < array.length
 new_array << array[i].capitalize + !
 i += 1
 end
-summon_captain_planet(new_array)
+summon_captain_planet(planeteer_calls)
 end
 
 snacks = ["crackers", "gouda", "thyme"]
