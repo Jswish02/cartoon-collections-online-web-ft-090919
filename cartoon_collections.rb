@@ -1,7 +1,7 @@
 snow_white=["Doc", "Dopey", "Bashful", "Grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 short_words = ["puff", "go", "two"]
-
+snacks = ["crackers", "gouda", "thyme"]
 def roll_call_dwarves(array)
   i = 1 
   while i < array.length 
@@ -33,7 +33,7 @@ end
 
 
 def find_the_cheese(array, array2)
-  chesse_types
+  chesse_types = snacks
   # the array below is here to help
   cheese_types = ["cheddar", "gouda", "camembert"]
   
