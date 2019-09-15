@@ -9,8 +9,10 @@ end
 
 roll_call_dwarves(snow_white)
 
-def summon_captain_planet# code an argument here
-  # You
+def summon_captain_planet(array)
+   i = 0
+while i < array.length 
+puts "#{array.capitalize}"
 end
 
 def long_planeteer_calls# code an argument here
