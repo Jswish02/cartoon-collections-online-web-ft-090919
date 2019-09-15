@@ -17,7 +17,7 @@ while i < array.length
 new_array << array[i].capitalize + !
 i += 1
 end
-summon_captain_planet(planeteer_calls)
+summon_captain_planet(new_array)
 def long_planeteer_calls# code an argument here
   # Your code here
 end
