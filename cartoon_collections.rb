@@ -46,6 +46,9 @@ def find_the_chesse(array)
 end
 find_the_chesse(snacks)
 
+cheese_types = ["cheddar", "gouda", "camembert"]
+snacks = ["crackers", "gouda", "thyme"]
+
 def find_the_cheese2(array, array2)
   chesse_types = array2
   array.find do |type|
