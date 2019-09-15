@@ -1,4 +1,4 @@
-snow_white=["Doc", "Dopey", "Bashful", "Grumpy"]
+dwarves=["Doc", "Dopey", "Bashful", "Grumpy"]
 planeteer_calls = ["earth", "wind", "fire", "water", "heart"]
 calls_scream = ["bo", "bam", "boom", "bazam", "powzer"]
 def roll_call_dwarves(array)
@@ -9,7 +9,7 @@ def roll_call_dwarves(array)
 end
 end
 
-roll_call_dwarves(snow_white)
+roll_call_dwarves(dwarves)
 
 def summon_captain_planet(array)
  new_array= []
